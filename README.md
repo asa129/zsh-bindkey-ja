@@ -1,6 +1,6 @@
 # zsh-bindkey-ja
 
-zsh の`bindkey`を日本語の説明で表示します。
+zsh の`bindkey`の説明を日本語で表示します。
 
 ![bindkey-ja のデモ](docs/demo.gif)
 
